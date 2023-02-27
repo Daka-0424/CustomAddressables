@@ -1,0 +1,19 @@
+{
+    "name" : "com.daka-0424.custom-addressables",
+    "version":"0.1.0",
+    "displayName":"CustomAddressables",
+    "description":"This is a Custom Addressables",
+    "author": "Daka-0424",
+    "unity":"2021.3",
+    "keywords": [
+        "unity"
+    ],
+    "homepage": "https://github.com/Daka-0424/custom-addressables#readme",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Daka-0424/custom-addressables"
+    },
+    "dependencies":{
+        "com.unity.addressables":"1.19.19"
+    }
+}
