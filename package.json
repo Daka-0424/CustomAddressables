@@ -14,8 +14,8 @@
   ],
     "homepage": "https://github.com/Daka-0424/CustomAddressables#readme",
   "repository": {
-      "url": "https://github.com/Daka-0424/CustomAddressables"
-      "type": "git",
+      "url": "https://github.com/Daka-0424/CustomAddressables",
+      "type": "git"
     },
     "dependencies":{
         "com.unity.addressables":"1.19.19"
