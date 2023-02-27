@@ -8,10 +8,10 @@
     "keywords": [
         "unity"
     ],
-    "homepage": "https://github.com/Daka-0424/custom-addressables#readme",
+    "homepage": "https://github.com/Daka-0424/CustomAddressables#readme",
   "repository": {
       "type": "git",
-      "url": "https://github.com/Daka-0424/custom-addressables"
+      "url": "https://github.com/Daka-0424/CustomAddressables"
     },
     "dependencies":{
         "com.unity.addressables":"1.19.19"
