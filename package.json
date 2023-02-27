@@ -12,10 +12,9 @@
     "bundles",
     "assetbundles"
   ],
-    "homepage": "https://github.com/Daka-0424/CustomAddressables#readme",
   "repository": {
-      "url": "https://github.com/Daka-0424/CustomAddressables",
-      "type": "git"
+      "type": "git",
+      "url": "https://github.com/Daka-0424/CustomAddressables.git"
     },
     "dependencies":{
         "com.unity.addressables":"1.19.19"
